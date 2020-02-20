@@ -1,2 +1,3 @@
 # introduction_CNN_Deep_Learning
-One introduction to use convolutional neural networks. In this code i will start to use the library TensorFlow for help-me to classify clothes pictures in some types.
+ 
+A introduction to the use of convolutional neural networks. In this code I start using the library TensorFlow to help me classify clothing pictures on different categories
